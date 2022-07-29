@@ -6,7 +6,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num1 = 5;
+            int edad = 44;
+            string name = "tato";
+
+            Console.WriteLine("su nombre: "+ name + " y su edad: " + edad); 
         }
     }
 }
