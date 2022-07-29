@@ -11,8 +11,9 @@ namespace ConsoleApp2
             var suma = num1 + num2;
             int edad = 27;
             string name = "tato";
+            //Impresion de datos
             Console.WriteLine(suma);
             Console.WriteLine("Su nombre es: {0} y su edad es: {1}", name, edad);
         }
-    }
+    
 }
